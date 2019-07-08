@@ -1,0 +1,10 @@
+.main-content{
+	top: 60px;
+	left: auto;
+	display: flex;
+	background: #0F4534;
+}
+.bordered{
+	border: 1px solid #ff006a;
+	padding: 8px;
+}
